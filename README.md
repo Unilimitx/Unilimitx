@@ -3,4 +3,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unilimitx&label=Profile%20Views&color=0e75b6&style=flat" alt="unilimitx" /> </p>
 
-[![Unilimitx](https://readme-typing-svg.herokuapp.com?color=F7185A&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone.;%3E+I'm+Unilimitx.;%3E+A+Noob+From+No×Where.)]
+[![Unilimitx](https://readme-typing-svg.herokuapp.com?color=F7185A&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone.;%3E+I'm+Unilimitx.;%3E+A+Noob+From+No+Where.)]
